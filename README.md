@@ -19,3 +19,7 @@ Alot of some mods' automation is based not on on-demand with AE2, but with passi
 While Waystones is in the pack, I wanted to balance it somehow, because Yttr's fast travel is so unique and I don't want to make it obsolete. So, I've removed everything but Warp Plates. You can set up a plate in your base and one in the mines and teleport between them, but to have a network of travel points, you can use Yttr.
 
 I have gated AE2, but Tom's Simple Storage is an option for before that.
+
+### Contact
+
+If you find a bug, dislike balancing in some aspect, want a mod added/removed, have an idea to make an item automatable, or hate a feature of a mod that's necessary for some reason, *please* make a new issue.
