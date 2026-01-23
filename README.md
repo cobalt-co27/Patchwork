@@ -4,7 +4,7 @@ Patchwork is a lil modpack, with some mods I belive to be underrated/underapprec
 
 While Patchwork is technically kitchen-sink, I've worked to eliminate any bloat. If you want a feature, one of the mods probably has it. You might have to work for it though...
 
-It is relatively small, with a total of 93 mods. Performance was on the top of the list; any mod with a substantial performance impact has been removed.
+It is relatively small, with a total of 90 mods. Performance was on the top of the list; any mod with a substantial performance impact has been removed.
 
 I've tried to make as many things automatable as possible, though not through traditional, 'magic box' ways. You'll have to think creatively, and use redstone and non-conventional logistics.
 
